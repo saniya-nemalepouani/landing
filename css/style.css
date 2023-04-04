@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Slab:wght@300;400;500;600;700;800;900&display=swap');
+go to Google fonts choose two fonts you like and copy the import link instead
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'playfair display', sans-serif;
+	font-size: 15 px;
+	margin: 0px auto;
+	background-color: #f6f1e9;
+	align-items: center;
+	color: #002b5b;
+}
+
+h1, h2, h3 {
+	font-family: 'font name';
+	font-weight: lighter;
+	font-size: size (ex: 35)px;
+	color: #color title;
+}
+
+a {
+	text-decoration: none;
+}
+
